@@ -22,6 +22,7 @@ struct MainView: View {
                     Text("내 정보")
                 }
         }
+        .tint(.deepBlue)
     }
 }
 
